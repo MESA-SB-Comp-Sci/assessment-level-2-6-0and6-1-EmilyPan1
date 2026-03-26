@@ -2,3 +2,43 @@
     box-sizing: border-box;
 }
 
+html {
+    background-color: grey;
+}
+
+h1 {
+    color: white;
+    background-color: pink;
+}
+
+.p1 {
+    color: yellow;
+}
+
+.p2 {
+    color: greenyellow;
+}
+
+.p3 {
+    color: lightblue;
+}
+
+.border1 {
+    background-color: white;
+    border: 5px solid orange;
+    width: 800px;
+    height: 100px;
+}
+
+footer {
+    color: white;
+}
+
+#p67 {
+    color: white;
+}
+
+#img-style {
+    display: inline-block;
+    border: 3px solid orange;
+}
